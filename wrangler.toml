@@ -2,7 +2,7 @@ name = "pastebin-worker"
 compatibility_date = "2023-10-30"
 compatibility_flags = ["nodejs_compat"]
 
-account_id = "516d0a360ccdea88dd79e9cf5d2bc3aa"
+account_id = "aa0eb05ff13801906b435ccda4ad97df"
 main = "src/index.ts"
 workers_dev = false
 
