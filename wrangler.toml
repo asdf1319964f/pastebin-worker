@@ -24,4 +24,4 @@ bucket_name = 'pastes'
 [[d1_databases]]
 binding = "DB"
 database_name = "pastebins"
-database_id = "634f0ef8-fdb9-4da6-acb9-6c066d52e47e"
+database_id = "c084fb47-611f-4dad-8c55-ace2b4a3c436"
